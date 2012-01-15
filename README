@@ -1,0 +1,5 @@
+AppChecker (AC) allows a user to select an exe file they would like to ensure is running.
+
+If the selected appliction is not running, AC will attempt to start it.
+
+A log window is updated when application events occur.
